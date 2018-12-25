@@ -1,0 +1,4 @@
+version control is a system
+git has two repositers
+one local repositer
+github removet repositer 
