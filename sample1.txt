@@ -1,4 +1,6 @@
 git command git init
 git add
 git commit
+git fetch
+git rebase
 
